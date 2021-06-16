@@ -2,7 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+<div style="display:flex;">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/no_tx_light.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/no_tx_dark.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/input_w_date.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/date_input.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/after_date.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/list_light.jpg" alt="alt text" width="200" height="400">
+<img src="https://github.com/shawon5ice/Expense/blob/master/screenshoots/list_dark.jpg" alt="alt text" width="200" height="400">
+</div>
 
 This project is a starting point for a Flutter application.
 
